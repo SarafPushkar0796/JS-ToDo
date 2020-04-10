@@ -1,0 +1,28 @@
+{
+    "lang" : "en",
+    "name": "ToDo",
+    "short_name": "ToDo",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "description" : "A todo app.",
+    "background_color": "#352f5b",
+    "theme_color": "#352f5b", 
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "./to-do-list-128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      },
+      {
+        "src": "./to-do-list-256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      }, 
+      {
+        "src": "./to-do-list.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
